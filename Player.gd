@@ -49,4 +49,4 @@ func _on_Player_body_entered(body):
 func start(pos):
 	position = pos
 	show()
-	monitoring = true
+	monitoring = true	
